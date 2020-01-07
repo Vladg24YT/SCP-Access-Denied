@@ -41,6 +41,8 @@ public class Game implements ActionListener {
         //Initialization
         window = new JFrame();
         GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().setFullScreenWindow(window);
+        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        window.setBackground(Color.WHITE);
 
         mainPanel = new JPanel();
         controlPanel = new JPanel();
@@ -135,8 +137,6 @@ public class Game implements ActionListener {
         userPanel.add(confirmButton);
 
         //window JFrame
-        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        window.setBackground(Color.WHITE);
         window.add(mainPanel);
         window.setVisible(true);
     }
