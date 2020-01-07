@@ -33,6 +33,10 @@ public class Game implements ActionListener {
     String[] filesArray, directoriesArray, mailArray;
     int accessLevel, hrs, min, sec;
 
+    /**
+    * Magically working code
+    * DO NOT F*CKING TOUCH!
+    */
     public Game() {
         //Initialization
         window = new JFrame();
