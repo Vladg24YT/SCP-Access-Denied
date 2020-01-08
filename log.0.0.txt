@@ -1,0 +1,3610 @@
+янв 07, 2020 2:15:58 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:15:58 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:15:58 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:15:58 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:15:58 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel controlPanel
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField path
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField commandLine
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JButton enter
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:15:59 PM ru.VladG24YT.console_scp.Game drawWindow
+INFO: Параметры окна изменены на java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+янв 07, 2020 2:16:28 PM ru.VladG24YT.console_scp.Game actionPerformed
+INFO: Вызван ActionEvententer
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel controlPanel
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField path
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField commandLine
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JButton enter
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:17:05 PM ru.VladG24YT.console_scp.Game drawWindow
+INFO: Параметры окна изменены на java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+янв 07, 2020 2:17:07 PM ru.VladG24YT.console_scp.Game actionPerformed
+INFO: Вызван ActionEvent: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=enter,when=1578395827440,modifiers=Button1] on javax.swing.JButton[,745,35,109x30,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@19426015,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Ввод,defaultCapable=true]
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:18:27 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel controlPanel
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField path
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField commandLine
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JButton enter
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:18:28 PM ru.VladG24YT.console_scp.Game drawWindow
+INFO: Параметры окна изменены на java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel controlPanel
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField path
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField commandLine
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JButton enter
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:20:32 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel controlPanel
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField path
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField commandLine
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JButton enter
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:00 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:21:30 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel controlPanel
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField path
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField commandLine
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JButton enter
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:21:31 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel: java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel controlPanel
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField path
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField commandLine
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JButton enter
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:26:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel: java.awt.Rectangle[x=-450,y=-300,width=900,height=600]
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel controlPanel
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField path
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField commandLine
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JButton enter
+янв 07, 2020 2:27:04 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:27:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:27:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:27:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:27:05 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game drawWindow
+INFO: Параметры окна изменены на java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=510,y=240,width=900,height=600]
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel controlPanel
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField path
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JTextField commandLine
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JButton enter
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:29:33 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена нстройка JPanel mainPanel
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game drawWindow
+INFO: Параметры окна изменены на java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=510,y=240,width=900,height=600]
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel controlPanel
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField path
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField commandLine
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JButton enter
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel treePanel
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel fileTree
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel outputPanel
+янв 07, 2020 2:33:22 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel loggerPanel
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JFrame window инициализирвоана
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel mainPanel инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel controlPanel инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel treePanel инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel fileTree инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel outputPanel инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JPanel loggerPanel инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JButton enter инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField path инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextField commandLine инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea sections инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea files инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea outputArea инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: JTextArea logger инициализирована
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: boolean isFullscreen установлена в значение 'true'
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game drawWindow
+INFO: Параметры окна изменены на java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=510,y=240,width=900,height=600]
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:33:40 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel controlPanel
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField path
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JTextField commandLine
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JButton enter
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel treePanel
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel fileTree
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel outputPanel
+янв 07, 2020 2:33:41 PM ru.VladG24YT.console_scp.Game <init>
+INFO: Завершена настройка JPanel loggerPanel
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=0,y=0,width=0,height=0]
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel controlPanel
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField path
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField commandLine
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton enter
+янв 08, 2020 8:28:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel treePanel
+янв 08, 2020 8:28:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 08, 2020 8:28:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel fileTree
+янв 08, 2020 8:28:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel outputPanel
+янв 08, 2020 8:28:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel loggerPanel
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel mainPanel изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel controlPanel
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField path
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField commandLine
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton enter
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel treePanel
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel mainPanel
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel fileTree
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel outputPanel
+янв 08, 2020 8:30:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel loggerPanel
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'utputPanel'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 8:47:46 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 8:54:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 8:54:34 PM ru.VladG24YT.ConsoleSCP.GUI actionPerformed
+INFO: Вызван ActionEvent: enter
+янв 08, 2020 8:54:35 PM ru.VladG24YT.ConsoleSCP.GUI actionPerformed
+INFO: Вызван ActionEvent: enter
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 8:56:00 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 8:57:22 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 8:58:25 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 8:59:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 8:59:51 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:02:27 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:03:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:03:45 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:05:37 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:05:38 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:05:38 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:05:38 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:05:38 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:05:38 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:05:38 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:05:47 PM ru.VladG24YT.ConsoleSCP.GUI actionPerformed
+INFO: Вызван ActionEvent: enter
+янв 08, 2020 9:06:31 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:06:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:07:20 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:11:32 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:11:33 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:11:33 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:11:33 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:11:33 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:11:33 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:11:33 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:11:41 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:11:42 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:12:21 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:12:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:13:18 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:06 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:14:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Параметры JPanel 'mainPanel' изменены на java.awt.Rectangle[x=0,y=0,width=900,height=600]
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'mainPanel'
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'controlPanel'
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 08, 2020 9:16:06 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'treePanel'
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'fileTree'
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'loggerPanel'
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JPanel 'OutputPanel'
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:07 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:08 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:09 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:10 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:11 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:12 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:13 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:14 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:15 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:16 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:17 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:18 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:19 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:20 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:21 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:22 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:23 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:24 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:25 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:26 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:27 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:28 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:29 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:30 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:31 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:32 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:33 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:33 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
+янв 08, 2020 9:16:33 PM ru.VladG24YT.ConsoleSCP.GUI$1 actionPerformed
+INFO: 'window' JFrame updated
