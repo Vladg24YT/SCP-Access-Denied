@@ -59,45 +59,45 @@ public class Game implements ActionListener, KeyListener {
         try {
             //Initialization
             window = new JFrame();
-            LOGGER.info("JFrame window инициализирвоана");
+            LOGGER.info("JFrame \'window\' инициализирвоана");
 
             mainPanel = new JPanel();
-            LOGGER.info("JPanel mainPanel инициализирована");
+            LOGGER.info("JPanel \'mainPanel\' инициализирована");
             controlPanel = new JPanel();
-            LOGGER.info("JPanel controlPanel инициализирована");
+            LOGGER.info("JPanel \'controlPanel\' инициализирована");
             treePanel = new JPanel();
-            LOGGER.info("JPanel treePanel инициализирована");
+            LOGGER.info("JPanel \'treePanel\' инициализирована");
             fileTree = new JPanel();
-            LOGGER.info("JPanel fileTree инициализирована");
+            LOGGER.info("JPanel \'fileTree\' инициализирована");
             outputPanel = new JPanel();
-            LOGGER.info("JPanel outputPanel инициализирована");
+            LOGGER.info("JPanel \'outputPanel\' инициализирована");
             loggerPanel = new JPanel();
-            LOGGER.info("JPanel loggerPanel инициализирована");
+            LOGGER.info("JPanel \'loggerPanel\' инициализирована");
             /*userPanel = new JPanel();
             LOGGER.info("JPanel userPanel инициализирована");*/
 
             enter = new JButton("Ввод");
-            LOGGER.info("JButton enter инициализирована");
+            LOGGER.info("JButton \'enter\' инициализирована");
             /*confirmButton = new JButton("Подтвердить");*/
 
             path = new JTextField();
-            LOGGER.info("JTextField path инициализирована");
+            LOGGER.info("JTextField \'path\' инициализирована");
             commandLine = new JTextField();
-            LOGGER.info("JTextField commandLine инициализирована");
+            LOGGER.info("JTextField \'commandLine\' инициализирована");
             /*usernameInput = new JTextField();
             passwordInput = new JTextField();*/
 
             sections = new JTextArea();
-            LOGGER.info("JTextArea sections инициализирована");
+            LOGGER.info("JTextArea \'sections\' инициализирована");
             files = new JTextArea();
-            LOGGER.info("JTextArea files инициализирована");
+            LOGGER.info("JTextArea \'files\' инициализирована");
             outputArea = new JTextArea();
-            LOGGER.info("JTextArea outputArea инициализирована");
+            LOGGER.info("JTextArea \'outputArea\' инициализирована");
             logger = new JTextArea();
-            LOGGER.info("JTextArea logger инициализирована");
+            LOGGER.info("JTextArea \'logger\' инициализирована");
 
             isFullscreen = true;
-            LOGGER.info("boolean isFullscreen установлена в значение \'true\'");
+            LOGGER.info("boolean \'isFullscreen\' установлена в значение \'true\'");
 
             //window JFrame
             window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -112,7 +112,7 @@ public class Game implements ActionListener, KeyListener {
             } else {
                 mainPanel.setBounds(0, 0, window.getWidth(), window.getHeight());
             }
-            LOGGER.info("Параметры JPanel mainPanel изменены на " + mainPanel.getBounds().toString());
+            LOGGER.info("Параметры JPanel \'mainPanel\' изменены на " + mainPanel.getBounds().toString());
             mainPanel.setLayout(null);
             mainPanel.setBackground(Color.BLACK);
             mainPanel.add(controlPanel);
@@ -121,7 +121,7 @@ public class Game implements ActionListener, KeyListener {
             mainPanel.add(outputPanel);
             mainPanel.add(loggerPanel);
             //mainPanel.add(userPanel);
-            LOGGER.info("Завершена настройка JPanel mainPanel");
+            LOGGER.info("Завершена настройка JPanel \'mainPanel\'");
 
             //controlPanel JPanel
             controlPanel.setBounds(mainPanel.getX() + 20, mainPanel.getY() + mainPanel.getHeight() - 70, mainPanel.getWidth() - 40, 70);
@@ -130,7 +130,7 @@ public class Game implements ActionListener, KeyListener {
             controlPanel.add(path);
             controlPanel.add(commandLine);
             controlPanel.add(enter);
-            LOGGER.info("Завершена настройка JPanel controlPanel");
+            LOGGER.info("Завершена настройка JPanel \'controlPanel\'");
 
             //path TextField
             path.setBounds(5, 5, controlPanel.getWidth() - 10, 30);
@@ -138,14 +138,14 @@ public class Game implements ActionListener, KeyListener {
             path.setForeground(Color.WHITE);
             path.setFont(Font.decode("Consolas 14"));
             path.setText("./" + username + "/home/");
-            LOGGER.info("Завершена настройка JTextField path");
+            LOGGER.info("Завершена настройка JTextField \'path\'");
 
             //commandLine TextField
             commandLine.setBounds(5, path.getHeight() + 5, controlPanel.getWidth() - 125, 30);
             commandLine.setBackground(Color.BLACK);
             commandLine.setForeground(Color.WHITE);
             commandLine.setFont(Font.decode("Consolas 14"));
-            LOGGER.info("Завершена настройка JTextField commandLine");
+            LOGGER.info("Завершена настройка JTextField \'commandLine\'");
 
             //enter JButton
             enter.setActionCommand("enter");
@@ -154,36 +154,36 @@ public class Game implements ActionListener, KeyListener {
             enter.setForeground(Color.WHITE);
             enter.setFont(Font.decode("Consolas 14"));
             enter.setBounds(commandLine.getWidth() + 10, commandLine.getY(), 109, 30);
-            LOGGER.info("Завершена настройка JButton enter");
+            LOGGER.info("Завершена настройка JButton \'enter\'");
 
             //treePanel JPanel
             treePanel.setBounds(mainPanel.getWidth() / 6, 50, mainPanel.getWidth() / 6, mainPanel.getHeight() - controlPanel.getHeight());
             treePanel.setBackground(Color.WHITE);
             treePanel.add(sections);
-            LOGGER.info("Завершена настройка JPanel treePanel");
+            LOGGER.info("Завершена настройка JPanel \'treePanel\'");
 
             //sections JTextArea
             sections.setBounds(5, 5, treePanel.getWidth() - 5, treePanel.getHeight() - 5);
             sections.setBackground(Color.BLACK);
-            LOGGER.info("Завершена настройка JPanel mainPanel");
+            LOGGER.info("Завершена настройка JTextAea \'sections\'");
 
             //fileTree JPanel
             fileTree.setBounds(0, 0, 0, 0);
             fileTree.setBackground(Color.WHITE);
             fileTree.add(files);
-            LOGGER.info("Завершена настройка JPanel fileTree");
+            LOGGER.info("Завершена настройка JPanel \'fileTree\'");
 
             //outputPanel JPanel
             outputPanel.setBounds(0, 0, 0, 0);
             outputPanel.setBackground(Color.WHITE);
             outputPanel.add(outputArea);
-            LOGGER.info("Завершена настройка JPanel outputPanel");
+            LOGGER.info("Завершена настройка JPanel \'outputPanel\'");
 
             //loggerPanel JPanel
             loggerPanel.setBounds(0, 0, 0, 0);
             loggerPanel.setBackground(Color.WHITE);
             loggerPanel.add(logger);
-            LOGGER.info("Завершена настройка JPanel loggerPanel");
+            LOGGER.info("Завершена настройка JPanel \'loggerPanel\'");
 
             /*//userPanel JPanel
             userPanel.setBounds(0, 0, 0, 0);
@@ -193,14 +193,14 @@ public class Game implements ActionListener, KeyListener {
             userPanel.add(confirmButton);*/
             window.setVisible(true);
         } catch (Exception e) {
-            LOGGER.log(Level.WARNING, "Ошибка в теле класса Game", e);
+            LOGGER.log(Level.WARNING, "Ошибка в теле класса \'Game\'", e);
         }
     }
 
     @Override
     public void actionPerformed(ActionEvent e) {
         String command = e.getActionCommand();
-        LOGGER.info("Вызван ActionEvent: " + e.getActionCommand());
+        LOGGER.info("Вызван ActionEvent: \'" + e.getActionCommand() + "\'");
         //Enter button
         if (command.equals("enter")) {
             String cmd = commandLine.getText();
@@ -248,7 +248,7 @@ public class Game implements ActionListener, KeyListener {
         try (FileInputStream ins = new FileInputStream("C:\\SCP Console\\logs\\log.config")) {
             LogManager.getLogManager().readConfiguration(ins);
             LOGGER = Logger.getLogger(Game.class.getName());
-            System.out.println("Logger initiated");
+            System.out.println("Logger включён");
         } catch (Exception ignore) {
             ignore.printStackTrace();
         }
