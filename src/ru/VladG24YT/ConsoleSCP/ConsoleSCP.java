@@ -8,14 +8,10 @@
  */
 package ru.VladG24YT.ConsoleSCP;
 
-import java.io.File;
 import java.io.FileInputStream;
-import java.io.FilenameFilter;
 import java.io.IOException;
 import java.util.logging.LogManager;
 import java.util.logging.Logger;
-import ru.VladG24YT.ConsoleSCP.GameEngine.GameInstance;
-import ru.VladG24YT.ConsoleSCP.GameEngine.Scene;
 
 /**
  *
@@ -25,8 +21,31 @@ public class ConsoleSCP {
 
     static Logger LOGGER;
 
+    /*static Scene[] scenesList;
+
+    static void initiateScenes() {
+        LOGGER.info("Initiating scenes...");
+        String[] scenePaths;
+        File sceneDir = new File("C:\\SCP Console\\scenes\\");
+        scenePaths = sceneDir.list(new FilenameFilter() {
+            @Override
+            public boolean accept(File dir, String name) {
+                return name.endsWith(".jscene");
+            }
+        });
+        File[] scenes = {};
+        for (int i = 0; i < scenePaths.length; i++) {
+            scenes[i] = new File(scenePaths[i]);
+        }
+        for (int i = 0; i < scenes.length; i++) {
+            scenesList[i].readFromFile(scenes[i]);
+        }
+    }*/
+
     public static void main(String[] args) throws IOException {
-        new GUI(LOGGER);
+        /*GameInstance currentGI = new GameInstance();
+        initiateScenes();*/
+        new Game(LOGGER);
     }
     
     static {

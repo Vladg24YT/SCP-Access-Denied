@@ -12,16 +12,20 @@ import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.Font;
+import java.awt.GraphicsEnvironment;
 import java.awt.Toolkit;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.GroupLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.Timer;
-//import ru.VladG24YT.ConsoleSCP.GameEngine.GameInstance;
 
 /**
  * TODO
@@ -31,38 +35,37 @@ import javax.swing.Timer;
  *
  * @author VladG24YT
  */
-public class GUI implements ActionListener {
+public class GUI implements KeyListener {
 
     //GUI variables
-    JFrame window;
-    JPanel mainPanel, controlPanel, treePanel, fileTree, outputPanel, loggerPanel;
-    JButton enter;
-    JTextField path, commandLine;
-    JTextArea sections, files, outputArea, logger;
+    static JFrame window;
+    static JPanel controlPanel, treePanel, fileTree, outputPanel, loggerPanel, userPanel;
+    static JButton enter, msg, help;
+    static JLabel user, access;
+    static JTextField path, commandLine, userView, accessView;
+    static JTextArea sections, files, outputArea, logger;
     boolean isFullscreen;
 
     //Extra variables
-    /*private static GameInstance currGI;*/
-    static Logger LOGGER /*= currGI.getLogger()*/;
+    static Logger LOGGER;
+    Game game;
 
     //Game variables
-    String currentPath;
+    String currentPath, username, password;
     String[] filesArray, directoriesArray, mailArray;
 
     /**
      * Constructor of the class
      *
      */
-    public GUI(/*GameInstance GI*/Logger log) {
+    public GUI(Logger log) {
         try {
-            //currGI = GI;
             LOGGER = log;
             //Initialization
+            isFullscreen = false;
             window = new JFrame("SCP Console v0.0.1 alpha | Java 8 Edition");
             LOGGER.info("JFrame \'window\' инициализирвоана");
             
-            mainPanel = new JPanel();
-            LOGGER.info("JPanel \'mainPanel\' инициализирована");
             controlPanel = new JPanel();
             LOGGER.info("JPanel \'controlPanel\' инициализирована");
             treePanel = new JPanel();
@@ -73,14 +76,29 @@ public class GUI implements ActionListener {
             LOGGER.info("JPanel \'outputPanel\' инициализирована");
             loggerPanel = new JPanel();
             LOGGER.info("JPanel \'loggerPanel\' инициализирована");
+            userPanel = new JPanel();
+            LOGGER.info("JPanel \'userPanel\' инициализирована");
             
             enter = new JButton("Ввод");
             LOGGER.info("JButton \'enter\' инициализирована");
+            msg = new JButton("📧");
+            LOGGER.info("JButton \'msg\' инициализирована");
+            help = new JButton("!");
+            LOGGER.info("JButton \'help\' инициализирована");
+            
+            user = new JLabel("Имя пользователя: ");
+            LOGGER.info("JLabel \'user\' инициализирована");
+            access = new JLabel("Уровень доступа: ");
+            LOGGER.info("JLabel \'access\' инициализирована");
             
             path = new JTextField();
             LOGGER.info("JTextField \'path\' инициализирована");
             commandLine = new JTextField();
             LOGGER.info("JTextField \'commandLine\' инициализирована");
+            userView = new JTextField();
+            LOGGER.info("JTextField \'userView\' инициализирована");
+            accessView = new JTextField();
+            LOGGER.info("JTextField \'accessView\' инициализирована");
             
             sections = new JTextArea();
             LOGGER.info("JTextArea \'sections\' инициализирована");
@@ -94,37 +112,18 @@ public class GUI implements ActionListener {
             isFullscreen = true;
             LOGGER.info("boolean \'isFullscreen\' установлена в значение \'true\'");
 
-            /*//window JFrame
+            //window JFrame
             window.setBounds(Toolkit.getDefaultToolkit().getScreenSize().width / 2 - 450, Toolkit.getDefaultToolkit().getScreenSize().height / 2 - 300, 900, 600);
             window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-            window.setBackground(Color.WHITE);
-
-            //mainPanel JPanel
-            if (isFullscreen) {
-                mainPanel.setBounds(window.getWidth() / 2 - 450, window.getHeight() / 2 - 300, 900, 600);
-            } else {
-            mainPanel.setBounds(0, 0, window.getWidth(), window.getHeight());
-            //}
-            LOGGER.info("Параметры JPanel \'mainPanel\' изменены на " + mainPanel.getBounds().toString());
-            //mainPanel.setLayout(null);
-            mainPanel.setBackground(Color.BLACK);
-            LOGGER.info("Завершена настройка JPanel \'mainPanel\'");
-
-            //controlPanel JPanel
-            controlPanel.setBounds(mainPanel.getX() + 20, mainPanel.getY() + mainPanel.getHeight() - 70, mainPanel.getWidth() - 40, 70);
-            controlPanel.setLayout(null);
-            controlPanel.setBackground(Color.WHITE);
-            LOGGER.info("Завершена настройка JPanel \'controlPanel\'");
+            window.setBackground(Color.BLACK);
 
             //path TextField
-            path.setBounds(5, 5, controlPanel.getWidth() - 10, 30);
             path.setBackground(Color.BLACK);
             path.setForeground(Color.WHITE);
             path.setFont(Font.decode("Consolas 14"));
             LOGGER.info("Завершена настройка JTextField \'path\'");
 
             //commandLine TextField
-            commandLine.setBounds(5, path.getHeight() + 5, controlPanel.getWidth() - 125, 30);
             commandLine.setBackground(Color.BLACK);
             commandLine.setForeground(Color.WHITE);
             commandLine.setFont(Font.decode("Consolas 14"));
@@ -132,17 +131,11 @@ public class GUI implements ActionListener {
 
             //enter JButton
             enter.setActionCommand("enter");
-            enter.addActionListener(this);
+            enter.addActionListener(game);
             enter.setBackground(Color.BLACK);
             enter.setForeground(Color.WHITE);
             enter.setFont(Font.decode("Consolas 14"));
-            enter.setBounds(commandLine.getWidth() + 10, commandLine.getY(), 109, 30);
             LOGGER.info("Завершена настройка JButton \'enter\'");
-
-            //treePanel JPanel
-            treePanel.setBounds(1, 51, mainPanel.getWidth() / 5 - 2, mainPanel.getHeight() - controlPanel.getHeight() - 52);
-            treePanel.setBackground(Color.WHITE);
-            LOGGER.info("Завершена настройка JPanel \'treePanel\'");
 
             //sections JTextArea
             sections.setBounds(1, 1, treePanel.getWidth() - 2, treePanel.getHeight() - 2);
@@ -152,11 +145,6 @@ public class GUI implements ActionListener {
             sections.setText("Objects\nPhotos\nWitnesses\nUHF");
             LOGGER.info("Завершена настройка JTextArea \'sections\'");
 
-            //fileTree JPanel
-            fileTree.setBounds(treePanel.getWidth() + 1, 51, treePanel.getWidth() - 2, treePanel.getHeight() - 2);
-            fileTree.setBackground(Color.WHITE);
-            LOGGER.info("Завершена настройка JPanel \'fileTree\'");
-
             //files JTextArea
             files.setBounds(1, 1, fileTree.getWidth() - 2, fileTree.getHeight() - 2);
             files.setBackground(Color.BLACK);
@@ -165,22 +153,12 @@ public class GUI implements ActionListener {
             files.setText("FILE\nFILE\nFILE\nEXE");
             LOGGER.info("Завершена настройка JTextArea \'files\'");
 
-            //loggerPanel JPanel
-            loggerPanel.setBounds(mainPanel.getWidth() / 5 * 4 + 1, 51, mainPanel.getWidth() / 5 - 2, fileTree.getHeight() - 2);
-            loggerPanel.setBackground(Color.WHITE);
-            LOGGER.info("Завершена настройка JPanel \'loggerPanel\'");
-
             //logger JTextArea
             logger.setBounds(1, 1, loggerPanel.getWidth() - 2, loggerPanel.getHeight() - 2);
             logger.setBackground(Color.BLACK);
             logger.setForeground(Color.GREEN);
             logger.setText("User@qactive");
             logger.setFont(Font.decode("Consolas 14"));
-
-            //outputPanel JPanel
-            outputPanel.setBounds(1, 51, mainPanel.getWidth() - (treePanel.getWidth() + fileTree.getWidth() + loggerPanel.getWidth()) - 2, loggerPanel.getHeight() - 2);
-            outputPanel.setBackground(Color.WHITE);
-            LOGGER.info("Завершена настройка JPanel \'OutputPanel'");
 
             //outputArea JTextArea
             outputArea.setBounds(1, 1, outputPanel.getWidth() - 2, outputPanel.getHeight() - 2);
@@ -191,73 +169,32 @@ public class GUI implements ActionListener {
             LOGGER.info("Завершена настройка JTextArea \'outputArea\'");
 
             //'Adders'
-            controlPanel.add(path);
-            controlPanel.add(commandLine);
-            controlPanel.add(enter);
             treePanel.add(sections);
+            LOGGER.info("sections added");
             fileTree.add(files);
+            LOGGER.info("files added");
             outputPanel.add(outputArea);
+            LOGGER.info("outputArea added");
             loggerPanel.add(logger);
-            mainPanel.add(controlPanel);
-            mainPanel.add(treePanel);
-            mainPanel.add(fileTree);
-            mainPanel.add(outputPanel);
-            mainPanel.add(loggerPanel);
-            window.add(mainPanel);
+            LOGGER.info("logger added");
+
+            /*initUserPanel();
+            initControlPanel();*/
+            initMainPanel();
+            LOGGER.info("window initiated");
             
-            window.setVisible(true);*/
+            window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            LOGGER.info("DefaultCloseOperation = JFrame.EXIT_ON_CLOSE");
             
-            mainPanel.setBounds(window.getWidth()/2-450, window.getHeight()/2-300, 900, 600);
-         
-            GroupLayout winLayout = new GroupLayout(window.getContentPane()); 
-            window.setLayout(layout); 
-            winLayout.setAutoCreateGaps(true); 
-            winLayout.setAutoCreateContainerGaps(true); 
- 
-            winLayout.setHorizontalGroup(winLayout.createSequentialGroup() 
-                    .addComponent() 
-                    .addGroup(winLayout.createSequentialGroup() 
-                        .addGroup(winLayout.createParallelGroup(LEADING)
-                            .addComponent(treePanel)
-                            .addComponent(controlPanel)
-                            .addGroup(winLayout.createParallelGroup(LEADING)
-                                .addComponent(fileTree)) 
-                            .addGroup(winLayout.createParallelGroup(LEADING) 
-                                    .addComponent(outputPanel))
-                            .addGroup(winLayout.createParallelGroup(LEADING)
-                                    .addComponent(loggerPanel)) 
-                    .addGroup(winLayout.createParallelGroup(LEADING) 
-                        .addComponent(findButton) 
-                        .addComponent(cancelButton)) 
-            ); 
-         
-            winLayout.linkSize(SwingConstants.HORIZONTAL, findButton, cancelButton); 
-         
-            winLayout.setVerticalGroup(winLayout.createSequentialGroup() 
-                    .addGroup(winLayout.createParallelGroup(BASELINE) 
-                            .addComponent(label) 
-                            .addComponent(textField) 
-                            .addComponent(findButton)) 
-                    .addGroup(winLayout.createParallelGroup(LEADING) 
-                    .addGroup(winLayout.createSequentialGroup() 
-                            .addGroup(winLayout.createParallelGroup(BASELINE) 
-                                    .addComponent(caseCheckBox) 
-                                    .addComponent(wrapCheckBox)) 
-                            .addGroup(winLayout.createParallelGroup(BASELINE) 
-                            .addComponent(wholeCheckBox) 
-                            .addComponent(backCheckBox))) 
-                    .addComponent(cancelButton)) 
-            ); 
-         
-            window.pack(); 
-            window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); 
-            
-            java.awt.EventQueue.invokeLater(new Runnable() { 
+            java.awt.EventQueue.invokeLater(new Runnable() {                
                 public void run() {
+                    LOGGER.info("Is Running");
                     JFrame.setDefaultLookAndFeelDecorated(false);
-                    window.setVisible(true); 
-                } 
-            }); 
+                    LOGGER.info("DefaultLookAndFeelDecorated = false");
+                    window.setVisible(true);
+                    LOGGER.info("Window viewed");
+                }                
+            });            
             
             Timer redrawer = new Timer(30, new ActionListener() {
                 @Override
@@ -271,21 +208,150 @@ public class GUI implements ActionListener {
             LOGGER.log(Level.WARNING, "Ошибка в теле класса Game", e);
         }
     }
+
+    /**
+     * Layout for User info
+     */
+    /*void initUserPanel() {
+        GroupLayout userLayout = new GroupLayout(userPanel);
+        userPanel.setLayout(userLayout);
+        userLayout.setAutoCreateGaps(true);
+        userLayout.setAutoCreateContainerGaps(true);
+
+        userLayout.setHorizontalGroup(userLayout.createSequentialGroup()
+                .addGroup(userLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addComponent(user)
+                        .addComponent(access)
+                )
+                .addGroup(userLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addComponent(userView)
+                        .addComponent(accessView)
+                )
+                .addGroup(userLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addComponent(msg)
+                        .addComponent(help)
+                )
+        );
+
+        userLayout.setVerticalGroup(userLayout.createSequentialGroup()
+                .addGroup(userLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                        .addComponent(user)
+                        .addComponent(userView)
+                        .addComponent(msg)
+                )
+                .addGroup(userLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addGroup(userLayout.createSequentialGroup()
+                                .addGroup(userLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                                        .addComponent(access)
+                                        .addComponent(accessView)
+                                        .addComponent(help)
+                                )
+                        )
+                )
+        );
+    }*/
+    /**
+     * Layout for game controls
+     */
+    /*void initControlPanel() {
+        GroupLayout controlLayout = new GroupLayout(controlPanel);
+        controlPanel.setLayout(controlLayout);
+        controlLayout.setAutoCreateContainerGaps(true);
+        controlLayout.setAutoCreateGaps(true);
+
+        controlLayout.setHorizontalGroup(controlLayout.createSequentialGroup()
+                .addGroup(controlLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addComponent(path)
+                        .addComponent(commandLine)
+                )
+                .addGroup(controlLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addComponent(enter)
+                )
+        );
+
+        controlLayout.setVerticalGroup(controlLayout.createSequentialGroup()
+                .addGroup(controlLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                        .addComponent(path)
+                )
+                .addGroup(controlLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addGroup(controlLayout.createSequentialGroup()
+                                .addGroup(controlLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                                        .addComponent(commandLine)
+                                        .addComponent(enter)
+                                )
+                        )
+                )
+        );
+    }*/
+    /**
+     * Main layout for the GUI
+     */
+    void initMainPanel() {
+        LOGGER.info("initiating window");
+        GroupLayout panLayout = new GroupLayout(window);
+        window.setLayout(panLayout);
+        panLayout.setAutoCreateGaps(true);
+        panLayout.setAutoCreateContainerGaps(true);
+        
+        panLayout.setHorizontalGroup(panLayout.createSequentialGroup()
+                .addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addComponent(treePanel)
+                        //.addComponent(controlPanel)
+                        .addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                                .addComponent(fileTree)
+                        )
+                        .addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                                //.addComponent(userPanel)
+                                .addComponent(outputPanel)
+                        )
+                        .addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                                .addComponent(loggerPanel)
+                        )
+                )
+        );
+        LOGGER.info("HorizontalGroup set");
+        
+        panLayout.setVerticalGroup(panLayout.createSequentialGroup()
+                .addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                        //.addComponent(userPanel)
+                        .addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                                .addGroup(panLayout.createSequentialGroup()
+                                        /*.addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                                                .addComponent(controlPanel)
+                                        )*/
+                                        .addGroup(panLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                                                .addComponent(treePanel)
+                                                .addComponent(fileTree)
+                                                .addComponent(outputPanel)
+                                                .addComponent(loggerPanel)
+                                        )
+                                )
+                        )
+                )
+        );
+        LOGGER.info("VerticalGroup set");
+        //window.pack();
+        LOGGER.info("window NOT packed");
+    }
     
     @Override
-    public void actionPerformed(ActionEvent e) {
-        String command = e.getActionCommand();
-        LOGGER.info("Вызван ActionEvent: " + e.getActionCommand());
-        //Enter button
-        if (command.equals("enter")) {
-            String cmd = commandLine.getText();
-            if (cmd.equals("info")) {
-                
-            } else if (cmd.equals("mail")) {
-                
-            } else if (cmd.contains("start ")) {
-                String program = null;
+    public void keyTyped(KeyEvent e) {
+        if (e.getKeyCode() == KeyEvent.VK_F11) {
+            if (isFullscreen) {
+                window.setBounds(Toolkit.getDefaultToolkit().getScreenSize().width / 2 - 450, Toolkit.getDefaultToolkit().getScreenSize().height / 2 - 300, 900, 600);
+            } else {
+                GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().setFullScreenWindow(window);
             }
         }
+    }
+    
+    @Override
+    public void keyPressed(KeyEvent e) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+    
+    @Override
+    public void keyReleased(KeyEvent e) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
