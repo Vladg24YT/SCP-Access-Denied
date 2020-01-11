@@ -39,7 +39,7 @@ public class GUI implements KeyListener {
 
     //GUI variables
     static JFrame window;
-    static JPanel controlPanel, treePanel, fileTree, outputPanel, loggerPanel, userPanel;
+    //static JPanel controlPanel, treePanel, fileTree, outputPanel, loggerPanel, userPanel;
     static JButton enter, msg, help;
     static JLabel user, access;
     static JTextField path, commandLine, userView, accessView;
@@ -66,7 +66,7 @@ public class GUI implements KeyListener {
             window = new JFrame("SCP Console v0.0.1 alpha | Java 8 Edition");
             LOGGER.info("JFrame \'window\' инициализирвоана");
             
-            controlPanel = new JPanel();
+            /*controlPanel = new JPanel();
             LOGGER.info("JPanel \'controlPanel\' инициализирована");
             treePanel = new JPanel();
             LOGGER.info("JPanel \'treePanel\' инициализирована");
@@ -77,7 +77,7 @@ public class GUI implements KeyListener {
             loggerPanel = new JPanel();
             LOGGER.info("JPanel \'loggerPanel\' инициализирована");
             userPanel = new JPanel();
-            LOGGER.info("JPanel \'userPanel\' инициализирована");
+            LOGGER.info("JPanel \'userPanel\' инициализирована");*/
             
             enter = new JButton("Ввод");
             LOGGER.info("JButton \'enter\' инициализирована");
@@ -169,17 +169,15 @@ public class GUI implements KeyListener {
             LOGGER.info("Завершена настройка JTextArea \'outputArea\'");
 
             //'Adders'
-            treePanel.add(sections);
+            /*treePanel.add(sections);
             LOGGER.info("sections added");
             fileTree.add(files);
             LOGGER.info("files added");
             outputPanel.add(outputArea);
             LOGGER.info("outputArea added");
             loggerPanel.add(logger);
-            LOGGER.info("logger added");
+            LOGGER.info("logger added");*/
 
-            /*initUserPanel();
-            initControlPanel();*/
             initMainPanel();
             LOGGER.info("window initiated");
             
@@ -285,6 +283,10 @@ public class GUI implements KeyListener {
     }*/
     /**
      * Main layout for the GUI
+     * 
+     * TODO
+     *
+     * Заменить JPanel'и на JComponent'ы
      */
     void initMainPanel() {
         LOGGER.info("initiating window");
