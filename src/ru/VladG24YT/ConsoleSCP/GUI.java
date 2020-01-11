@@ -94,15 +94,15 @@ public class GUI implements ActionListener {
             isFullscreen = true;
             LOGGER.info("boolean \'isFullscreen\' установлена в значение \'true\'");
 
-            //window JFrame
+            /*//window JFrame
             window.setBounds(Toolkit.getDefaultToolkit().getScreenSize().width / 2 - 450, Toolkit.getDefaultToolkit().getScreenSize().height / 2 - 300, 900, 600);
             window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             window.setBackground(Color.WHITE);
 
             //mainPanel JPanel
-            /*if (isFullscreen) {
+            if (isFullscreen) {
                 mainPanel.setBounds(window.getWidth() / 2 - 450, window.getHeight() / 2 - 300, 900, 600);
-            } else {*/
+            } else {
             mainPanel.setBounds(0, 0, window.getWidth(), window.getHeight());
             //}
             LOGGER.info("Параметры JPanel \'mainPanel\' изменены на " + mainPanel.getBounds().toString());
@@ -205,7 +205,59 @@ public class GUI implements ActionListener {
             mainPanel.add(loggerPanel);
             window.add(mainPanel);
             
-            window.setVisible(true);
+            window.setVisible(true);*/
+            
+            mainPanel.setBounds(window.getWidth()/2-450, window.getHeight()/2-300, 900, 600);
+         
+            GroupLayout winLayout = new GroupLayout(window.getContentPane()); 
+            window.setLayout(layout); 
+            winLayout.setAutoCreateGaps(true); 
+            winLayout.setAutoCreateContainerGaps(true); 
+ 
+            winLayout.setHorizontalGroup(winLayout.createSequentialGroup() 
+                    .addComponent() 
+                    .addGroup(winLayout.createSequentialGroup() 
+                        .addGroup(winLayout.createParallelGroup(LEADING)
+                            .addComponent(treePanel)
+                            .addComponent(controlPanel)
+                            .addGroup(winLayout.createParallelGroup(LEADING)
+                                .addComponent(fileTree)) 
+                            .addGroup(winLayout.createParallelGroup(LEADING) 
+                                    .addComponent(outputPanel))
+                            .addGroup(winLayout.createParallelGroup(LEADING)
+                                    .addComponent(loggerPanel)) 
+                    .addGroup(winLayout.createParallelGroup(LEADING) 
+                        .addComponent(findButton) 
+                        .addComponent(cancelButton)) 
+            ); 
+         
+            winLayout.linkSize(SwingConstants.HORIZONTAL, findButton, cancelButton); 
+         
+            winLayout.setVerticalGroup(winLayout.createSequentialGroup() 
+                    .addGroup(winLayout.createParallelGroup(BASELINE) 
+                            .addComponent(label) 
+                            .addComponent(textField) 
+                            .addComponent(findButton)) 
+                    .addGroup(winLayout.createParallelGroup(LEADING) 
+                    .addGroup(winLayout.createSequentialGroup() 
+                            .addGroup(winLayout.createParallelGroup(BASELINE) 
+                                    .addComponent(caseCheckBox) 
+                                    .addComponent(wrapCheckBox)) 
+                            .addGroup(winLayout.createParallelGroup(BASELINE) 
+                            .addComponent(wholeCheckBox) 
+                            .addComponent(backCheckBox))) 
+                    .addComponent(cancelButton)) 
+            ); 
+         
+            window.pack(); 
+            window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); 
+            
+            java.awt.EventQueue.invokeLater(new Runnable() { 
+                public void run() {
+                    JFrame.setDefaultLookAndFeelDecorated(false);
+                    window.setVisible(true); 
+                } 
+            }); 
             
             Timer redrawer = new Timer(30, new ActionListener() {
                 @Override
