@@ -8,6 +8,7 @@
  */
 package ru.VladG24YT.ConsoleSCP;
 
+import ru.VladG24YT.ConsoleSCP.GUI.ConsoleWindow;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.logging.LogManager;
@@ -22,13 +23,13 @@ public class ConsoleSCP {
     static Logger LOGGER;
 
     public static void main(String[] args) throws IOException {
-        new GUIMaker().setVisible(true);
+        new ConsoleWindow().setVisible(true);
     }
-    
+
     static {
         try (FileInputStream ins = new FileInputStream("C:\\SCP Console\\logs\\log.config")) {
             LogManager.getLogManager().readConfiguration(ins);
-            LOGGER = Logger.getLogger(GUIMaker.class.getName());
+            LOGGER = Logger.getLogger(ConsoleWindow.class.getName());
             System.out.println("Logger initiated");
         } catch (Exception ignore) {
             ignore.printStackTrace();

@@ -1,0 +1,79 @@
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JFrame 'window' инициализирвоана
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'mainPanel' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'controlPanel' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'treePanel' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'fileTree' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'outputPanel' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'loggerPanel' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JPanel 'userPanel' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'enter' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'msg' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JButton 'help' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JLabel 'user' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JLabel 'access' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'path' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'commandLine' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'userView' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextField 'accessView' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'sections' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'files' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'outputArea' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: JTextArea 'logger' инициализирована
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: boolean 'isFullscreen' установлена в значение 'true'
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'path'
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextField 'commandLine'
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JButton 'enter'
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'sections'
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'files'
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+INFO: Завершена настройка JTextArea 'outputArea'
+янв 11, 2020 1:24:58 PM ru.VladG24YT.ConsoleSCP.GUI <init>
+WARNING: Ошибка в теле класса Game
+java.lang.IllegalArgumentException: GroupLayout can only be used with one Container at a time
+	at javax.swing.GroupLayout.checkParent(GroupLayout.java:1116)
+	at javax.swing.GroupLayout.invalidateLayout(GroupLayout.java:1008)
+	at java.awt.Container.invalidate(Container.java:1588)
+	at java.awt.Component.addNotify(Component.java:6939)
+	at java.awt.Container.addNotify(Container.java:2765)
+	at javax.swing.JComponent.addNotify(JComponent.java:4740)
+	at java.awt.Container.addNotify(Container.java:2776)
+	at javax.swing.JComponent.addNotify(JComponent.java:4740)
+	at java.awt.Container.addNotify(Container.java:2776)
+	at javax.swing.JComponent.addNotify(JComponent.java:4740)
+	at javax.swing.JRootPane.addNotify(JRootPane.java:757)
+	at java.awt.Container.addNotify(Container.java:2776)
+	at java.awt.Window.addNotify(Window.java:770)
+	at java.awt.Frame.addNotify(Frame.java:487)
+	at java.awt.Window.pack(Window.java:807)
+	at ru.VladG24YT.ConsoleSCP.GUI.initMainPanel(GUI.java:321)
+	at ru.VladG24YT.ConsoleSCP.GUI.<init>(GUI.java:181)
+	at ru.VladG24YT.ConsoleSCP.Game.<init>(Game.java:16)
+	at ru.VladG24YT.ConsoleSCP.ConsoleSCP.main(ConsoleSCP.java:48)
+
