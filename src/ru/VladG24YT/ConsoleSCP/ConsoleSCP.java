@@ -8,11 +8,8 @@
  */
 package ru.VladG24YT.ConsoleSCP;
 
-import ru.VladG24YT.ConsoleSCP.GUI.ConsoleWindow;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.logging.LogManager;
-import java.util.logging.Logger;
+import ru.VladG24YT.ConsoleSCP.GUIFullscreen.MainWindow;
+import ru.VladG24YT.ConsoleSCP.GUIStandard.ConsoleWindow;
 
 /**
  *
@@ -20,19 +17,21 @@ import java.util.logging.Logger;
  */
 public class ConsoleSCP {
 
-    static Logger LOGGER;
-
-    public static void main(String[] args) throws IOException {
-        new ConsoleWindow().setVisible(true);
+    //static Logger LOGGER;
+    public static void main(String[] args) {
+        //new ConsoleWindow().setVisible(true);
+        new MainWindow().setVisible(true);
     }
 
-    static {
+    /*static {
         try (FileInputStream ins = new FileInputStream("C:\\SCP Console\\logs\\log.config")) {
             LogManager.getLogManager().readConfiguration(ins);
             LOGGER = Logger.getLogger(ConsoleWindow.class.getName());
             System.out.println("Logger initiated");
-        } catch (Exception ignore) {
-            ignore.printStackTrace();
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(ConsoleSCP.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(ConsoleSCP.class.getName()).log(Level.SEVERE, null, ex);
         }
-    }
+    }*/
 }
