@@ -1,4 +1,5 @@
 # SCP: Access Denied
+![](https://github.com/Vladg24YT/SCP-Access-Denied/workflows/Java/badge.svg)
 ## About
 
 <p>SCP: Access Denied is a puzzle-adventure game, where you pick up a role of an SCP Foundation Site Director. </p>
