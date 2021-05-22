@@ -3,6 +3,8 @@
 ![](https://github.com/Vladg24YT/SCP-Access-Denied/workflows/Windows%20Latest%20x86/badge.svg)
 ![](https://github.com/Vladg24YT/SCP-Access-Denied/workflows/Windows%20Latest%20x64/badge.svg)
 ![](https://github.com/Vladg24YT/SCP-Access-Denied/workflows/macOS%20Latest/badge.svg)
+# NOT MAINTAINED
+
 ## About
 
 <p>SCP: Access Denied is a puzzle-adventure game, where you pick up a role of an SCP Foundation Site Director. </p>
